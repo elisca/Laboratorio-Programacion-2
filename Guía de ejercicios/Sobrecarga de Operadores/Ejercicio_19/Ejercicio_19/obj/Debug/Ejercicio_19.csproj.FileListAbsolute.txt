@@ -1,0 +1,5 @@
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_19\Ejercicio_19\bin\Debug\Ejercicio_19.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_19\Ejercicio_19\bin\Debug\Ejercicio_19.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.csprojResolveAssemblyReference.cache
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Sobrecarga de Operadores\Ejercicio_19\Ejercicio_19\obj\Debug\Ejercicio_19.pdb

@@ -1,0 +1,4 @@
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_10\Ejercicio_10\bin\Debug\Ejercicio_10.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_10\Ejercicio_10\bin\Debug\Ejercicio_10.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_10\Ejercicio_10\obj\Debug\Ejercicio_10.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_10\Ejercicio_10\obj\Debug\Ejercicio_10.pdb

@@ -1,0 +1,6 @@
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_07\Ejercicio_07\bin\Debug\Ejercicio_07.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_07\Ejercicio_07\bin\Debug\Ejercicio_07.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_07\Ejercicio_07\obj\Debug\Ejercicio_07.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_07\Ejercicio_07\obj\Debug\Ejercicio_07.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Conceptos Básicos\Ejercicio_07\Ejercicio_07\obj\Debug\Ejercicio_07.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Guía de ejercicios\Conceptos Básicos\Ejercicio_07\Ejercicio_07\obj\Debug\Ejercicio_07.pdb

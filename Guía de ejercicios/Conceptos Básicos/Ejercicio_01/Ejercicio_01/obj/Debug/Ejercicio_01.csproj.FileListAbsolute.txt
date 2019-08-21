@@ -1,0 +1,5 @@
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_01\Ejercicio_01\bin\Debug\Ejercicio_01.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_01\Ejercicio_01\bin\Debug\Ejercicio_01.pdb
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_01\Ejercicio_01\obj\Debug\Ejercicio_01.csprojResolveAssemblyReference.cache
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_01\Ejercicio_01\obj\Debug\Ejercicio_01.exe
+G:\Ezequiel\Trabajos\Programacion\C#\Calculadora\Ejercicio_01\Ejercicio_01\obj\Debug\Ejercicio_01.pdb

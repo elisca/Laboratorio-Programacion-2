@@ -1,0 +1,7 @@
+D:\Ezequiel Lisca\Ejercicio_27\Ejercicio_27\bin\Debug\Ejercicio_27.exe.config
+D:\Ezequiel Lisca\Ejercicio_27\Ejercicio_27\bin\Debug\Ejercicio_27.exe
+D:\Ezequiel Lisca\Ejercicio_27\Ejercicio_27\bin\Debug\Ejercicio_27.pdb
+D:\Ezequiel Lisca\Ejercicio_27\Ejercicio_27\obj\Debug\Ejercicio_27.csprojAssemblyReference.cache
+D:\Ezequiel Lisca\Ejercicio_27\Ejercicio_27\obj\Debug\Ejercicio_27.csproj.CoreCompileInputs.cache
+D:\Ezequiel Lisca\Ejercicio_27\Ejercicio_27\obj\Debug\Ejercicio_27.exe
+D:\Ezequiel Lisca\Ejercicio_27\Ejercicio_27\obj\Debug\Ejercicio_27.pdb
