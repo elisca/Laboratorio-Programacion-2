@@ -1,0 +1,13 @@
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\bin\Debug\FormBilletes.exe.config
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\bin\Debug\FormBilletes.exe
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\bin\Debug\FormBilletes.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\bin\Debug\Moneda.dll
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\bin\Debug\Moneda.pdb
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\obj\Debug\FormBilletes.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\obj\Debug\FormBilletes.Form1.resources
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\obj\Debug\FormBilletes.Properties.Resources.resources
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\obj\Debug\FormBilletes.csproj.GenerateResource.cache
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\obj\Debug\FormBilletes.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\obj\Debug\FormBilletes.csproj.CopyComplete
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\obj\Debug\FormBilletes.exe
+C:\Users\alumno\Downloads\Laboratorio_2-master\Laboratorio_2-master\Gu+¡a de ejercicios\Sobrecarga de Operadores\Ejercicio_20\FormBilletes\obj\Debug\FormBilletes.pdb
