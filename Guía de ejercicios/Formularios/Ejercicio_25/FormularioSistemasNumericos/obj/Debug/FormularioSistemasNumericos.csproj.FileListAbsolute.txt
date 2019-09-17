@@ -1,0 +1,10 @@
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\bin\Debug\FormularioSistemasNumericos.exe
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\bin\Debug\FormularioSistemasNumericos.pdb
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\bin\Debug\Ejercicio_13.dll
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\bin\Debug\Ejercicio_13.pdb
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\obj\Debug\FormularioSistemasNumericos.csprojResolveAssemblyReference.cache
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\obj\Debug\FormularioSistemasNumericos.Form1.resources
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\obj\Debug\FormularioSistemasNumericos.Properties.Resources.resources
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\obj\Debug\FormularioSistemasNumericos.csproj.GenerateResource.Cache
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\obj\Debug\FormularioSistemasNumericos.exe
+C:\Users\ezequ\Documents\Formularios\Ejercicio_25\FormularioSistemasNumericos\obj\Debug\FormularioSistemasNumericos.pdb
