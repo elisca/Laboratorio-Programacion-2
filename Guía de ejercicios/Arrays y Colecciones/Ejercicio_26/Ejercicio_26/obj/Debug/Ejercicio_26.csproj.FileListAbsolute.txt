@@ -1,0 +1,5 @@
+C:\Users\ezequ\Documents\Ejercicio_26\Ejercicio_26\bin\Debug\Ejercicio_26.exe
+C:\Users\ezequ\Documents\Ejercicio_26\Ejercicio_26\bin\Debug\Ejercicio_26.pdb
+C:\Users\ezequ\Documents\Ejercicio_26\Ejercicio_26\obj\Debug\Ejercicio_26.csprojResolveAssemblyReference.cache
+C:\Users\ezequ\Documents\Ejercicio_26\Ejercicio_26\obj\Debug\Ejercicio_26.exe
+C:\Users\ezequ\Documents\Ejercicio_26\Ejercicio_26\obj\Debug\Ejercicio_26.pdb

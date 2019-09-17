@@ -2,195 +2,171 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.Threading;
 
-namespace Ejercicio_27
+namespace Ejercicio_26
 {
     class Program
     {
         static void Main(string[] args)
         {
+            const int LONG_ARRAY = 20;
+
             Random rndNum = new Random();
-            int numAct = 0;
-            byte contNumsIngresados = 0;
-            int[] arrayNums = new int[20];
+            int auxNum;
             List<int> listaNums = new List<int>();
             Queue<int> colaNums = new Queue<int>();
             Stack<int> pilaNums = new Stack<int>();
 
-            do
+            #region Generar_Numeros
+            for (int i = 0; i < LONG_ARRAY; i++)
             {
-                numAct = rndNum.Next(-100, 100);
-                if (numAct != 0)
+                do
                 {
-                    arrayNums[contNumsIngresados] = numAct;
-                    contNumsIngresados++;
-                }
-            } while (contNumsIngresados < 20);
+                    auxNum = rndNum.Next(-100, 100);
+                } while (auxNum == 0);
 
-            #region Lista
-            Console.WriteLine("Lista de números sin ordenar:");
-            foreach (int auxNum in arrayNums)
-            {
                 listaNums.Add(auxNum);
-            }
-
-            foreach (int auxNum in listaNums)
-            {
-                Console.WriteLine("Número: {0}", auxNum);
-            }
-
-            listaNums.Sort();
-
-            Console.ReadKey();
-            Console.Clear();
-
-            Console.WriteLine("Lista de números negativos ordenados ascendentemente:");
-            foreach (int auxNum in listaNums)
-            {
-                if (auxNum < 0)
-                {
-                    Console.WriteLine("Número: {0}", auxNum);
-                }
-            }
-
-            Console.ReadKey();
-            Console.Clear();
-
-            Console.WriteLine("Lista de números positivos ordenados descendentemente:");
-            for (int i = listaNums.Count - 1; i >= 0; i--)
-            {
-                if (listaNums[i] > 0)
-                {
-                    Console.WriteLine("Número: {0}", listaNums[i]);
-                }
-            }
-
-            Console.ReadKey();
-            Console.Clear();
-            #endregion
-
-            #region Cola
-            //Copia el array de números en una cola
-            foreach (int auxNum in arrayNums)
-            {
                 colaNums.Enqueue(auxNum);
-            }
-
-            Console.WriteLine("Cola de números sin ordenar:");
-            foreach (int auxNum in colaNums)
-            {
-                Console.WriteLine("Número: {0}", auxNum);
-            }
-
-            //Convierte a la cola de números en una lista, ordena la misma y vuelve a cargar una cola con la lista ordenada
-            listaNums = colaNums.ToList();
-            listaNums.Sort();
-            colaNums.Clear();
-
-            foreach (int auxNum in listaNums)
-            {
-                colaNums.Enqueue(auxNum);
-            }
-
-            Console.ReadKey();
-            Console.Clear();
-
-            Console.WriteLine("Cola de números negativos ordenados ascendentemente:");
-            foreach (int auxNum in colaNums)
-            {
-                if (auxNum < 0)
-                {
-                    Console.WriteLine("Número: {0}", auxNum);
-                }
-            }
-
-            Console.ReadKey();
-            Console.Clear();
-
-            //Convierte a la cola de números en una lista, ordena la misma y vuelve a cargar una cola con la lista ordenada
-            listaNums = colaNums.ToList();
-            listaNums.Sort();
-            listaNums.Reverse();
-            colaNums.Clear();
-
-            foreach (int auxNum in listaNums)
-            {
-                colaNums.Enqueue(auxNum);
-            }
-
-            Console.WriteLine("Cola de números positivos ordenados descendentemente:");
-            foreach (int auxNum in colaNums)
-            {
-                if (auxNum > 0)
-                {
-                    Console.WriteLine("Número: {0}", auxNum);
-                }
-            }
-            Console.ReadKey();
-            Console.Clear();
-            #endregion
-
-            #region Pila
-            //Copia el array de números en una pila
-            foreach (int auxNum in arrayNums)
-            {
                 pilaNums.Push(auxNum);
             }
-
-            Console.WriteLine("Pila de números sin ordenar:");
-            foreach (int auxNum in pilaNums)
-            {
-                Console.WriteLine("Número: {0}", auxNum);
-            }
-
-            //Convierte a la pila de números en una lista, ordena la misma y vuelve a cargar una pila con la lista ordenada
-            listaNums = pilaNums.ToList();
-            listaNums.Sort();
-            listaNums.Reverse();
-            pilaNums.Clear();
-
-            foreach (int auxNum in listaNums)
-            {
-                pilaNums.Push(auxNum);
-            }
-
-            Console.ReadKey();
-            Console.Clear();
-
-            Console.WriteLine("Pila de números negativos ordenados ascendentemente:");
-            foreach (int auxNum in pilaNums)
-            {
-                if (auxNum < 0)
-                {
-                    Console.WriteLine("Número: {0}", auxNum);
-                }
-            }
-
-            Console.ReadKey();
-            Console.Clear();
-
-            //Convierte a la pila de números en una lista, ordena la misma y vuelve a cargar una pila con la lista ordenada
-            listaNums = pilaNums.ToList();
-            listaNums.Sort();
-            pilaNums.Clear();
-
-            foreach (int auxNum in listaNums)
-            {
-                pilaNums.Push(auxNum);
-            }
-
-            Console.WriteLine("Pila de números positivos ordenados descendentemente:");
-            foreach (int auxNum in pilaNums)
-            {
-                if (auxNum > 0)
-                {
-                    Console.WriteLine("Número: {0}", auxNum);
-                }
-            }
             #endregion
+
+            #region Muestreo_Lista
+            Console.WriteLine("LISTA DE NÚMEROS SIN ORDENAR:");
+            MostrarLista(listaNums, 0);
+
+            Console.WriteLine("NÚMEROS POSITIVOS ORDENADOS DESCENDENTEMENTE:");
+            OrdenarLista(listaNums, false);
+            MostrarLista(listaNums, 1);
+
+            Console.WriteLine("NÚMEROS NEGATIVOS ORDENADOS ASCENDENTEMENTE:");
+            OrdenarLista(listaNums, true);
+            MostrarLista(listaNums, -1);
             Console.ReadKey();
+            #endregion
+
+            Console.Clear();
+
+            #region Muestreo_Cola
+            Console.WriteLine("COLA DE NÚMEROS SIN ORDENAR:");
+            MostrarCola(colaNums, 0);
+
+            Console.WriteLine("NÚMEROS POSITIVOS ORDENADOS DESCENDENTEMENTE:");
+            OrdenarCola(colaNums, false);
+            MostrarCola(colaNums, 1);
+
+            Console.WriteLine("NÚMEROS NEGATIVOS ORDENADOS ASCENDENTEMENTE:");
+            OrdenarCola(colaNums, true);
+            MostrarCola(colaNums, -1);
+            Console.ReadKey();
+            #endregion
+
+            Console.Clear();
+
+            #region Muestreo_Pila
+            Console.WriteLine("PILA DE NÚMEROS SIN ORDENAR:");
+            MostrarPila(pilaNums, 0);
+
+            Console.WriteLine("NÚMEROS POSITIVOS ORDENADOS DESCENDENTEMENTE:");
+            OrdenarPila(pilaNums, false);
+            MostrarPila(pilaNums, 1);
+
+            Console.WriteLine("NÚMEROS NEGATIVOS ORDENADOS ASCENDENTEMENTE:");
+            OrdenarPila(pilaNums, true);
+            MostrarPila(pilaNums, -1);
+            Console.ReadKey();
+            #endregion
         }
+
+        #region Funciones_Lista
+        static void MostrarLista(List<int> listaNums, int mostrarRangos)
+        {
+            foreach (int auxNum in listaNums)
+            {
+                if ((mostrarRangos < 0 && auxNum < 0) || (mostrarRangos==0) || (mostrarRangos>0 && auxNum > 0))
+                {
+                    Console.Write("{0} ", auxNum);
+                }
+            }
+            Console.WriteLine("");
+        }
+
+        static void OrdenarLista(List<int> listaNums, bool ordenAscendente)
+        {
+            listaNums.Sort();
+            if (!ordenAscendente)
+            {
+                listaNums.Reverse();
+            }
+        }
+        #endregion
+
+        #region Funciones_Cola
+        static void MostrarCola(Queue<int> colaNums, int mostrarRangos)
+        {
+            foreach (int auxNum in colaNums)
+            {
+                if ((mostrarRangos < 0 && auxNum < 0) || (mostrarRangos == 0) || (mostrarRangos > 0 && auxNum > 0))
+                {
+                    Console.Write("{0} ", auxNum);
+                }
+            }
+            Console.WriteLine("");
+        }
+
+        static void OrdenarCola(Queue<int> colaNums, bool ordenAscendente)
+        {
+            List<int> auxListaNums;
+            
+            auxListaNums = colaNums.ToList();
+            auxListaNums.Sort();
+
+            if (!ordenAscendente)
+            {
+                auxListaNums.Reverse();
+            }
+
+            colaNums.Clear();
+
+            foreach (int auxNum in auxListaNums)
+            {
+                colaNums.Enqueue(auxNum);
+            }
+        }
+        #endregion
+
+        #region Funciones_Pila
+        static void MostrarPila(Stack<int> pilaNums, int mostrarRangos)
+        {
+            foreach (int auxNum in pilaNums)
+            {
+                if ((mostrarRangos < 0 && auxNum < 0) || (mostrarRangos == 0) || (mostrarRangos > 0 && auxNum > 0))
+                {
+                    Console.Write("{0} ", auxNum);
+                }
+            }
+            Console.WriteLine("");
+        }
+
+        static void OrdenarPila(Stack<int> pilaNums, bool ordenAscendente)
+        {
+            List<int> auxListaNums;
+
+            auxListaNums = pilaNums.ToList();
+            auxListaNums.Sort();
+
+            if (ordenAscendente)
+            {
+                auxListaNums.Reverse();
+            }
+
+            pilaNums.Clear();
+
+            foreach (int auxNum in auxListaNums)
+            {
+                pilaNums.Push(auxNum);
+            }
+        }
+        #endregion
     }
 }
