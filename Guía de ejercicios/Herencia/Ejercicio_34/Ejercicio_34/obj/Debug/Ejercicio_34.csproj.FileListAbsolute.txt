@@ -1,0 +1,6 @@
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_34\Ejercicio_34\bin\Debug\Ejercicio_34.exe.config
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_34\Ejercicio_34\bin\Debug\Ejercicio_34.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_34\Ejercicio_34\bin\Debug\Ejercicio_34.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_34\Ejercicio_34\obj\Debug\Ejercicio_34.csprojResolveAssemblyReference.cache
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_34\Ejercicio_34\obj\Debug\Ejercicio_34.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_34\Ejercicio_34\obj\Debug\Ejercicio_34.pdb

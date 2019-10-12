@@ -1,0 +1,32 @@
+D:\Punto_29\Punto_29\bin\Debug\Punto_29.exe.config
+D:\Punto_29\Punto_29\bin\Debug\Punto_29.exe
+D:\Punto_29\Punto_29\bin\Debug\Punto_29.pdb
+D:\Punto_29\Punto_29\obj\Debug\Punto_29.csprojAssemblyReference.cache
+D:\Punto_29\Punto_29\obj\Debug\Punto_29.csproj.CoreCompileInputs.cache
+D:\Punto_29\Punto_29\obj\Debug\Punto_29.exe
+D:\Punto_29\Punto_29\obj\Debug\Punto_29.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\Punto_29.exe.config
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\obj\Debug\Punto_29.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\obj\Debug\Punto_29.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\Punto_29.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\Punto_29.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\mscorlib.dll
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\es\mscorlib.resources.dll
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\normidna.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\normnfc.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\normnfd.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\normnfkc.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Encapsulamiento\Ejercicio_32\Punto_29\bin\Debug\normnfkd.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\Punto_29.exe.config
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\obj\Debug\Punto_29.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\obj\Debug\Punto_29.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\obj\Debug\Punto_29.csprojResolveAssemblyReference.cache
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\Punto_29.exe
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\Punto_29.pdb
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\mscorlib.dll
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\es\mscorlib.resources.dll
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\normidna.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\normnfc.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\normnfd.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\normnfkc.nlp
+C:\Users\elisca\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Herencia\Ejercicio_35\Punto_29\bin\Debug\normnfkd.nlp
