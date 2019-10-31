@@ -1,0 +1,15 @@
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\obj\Debug\IO.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\IO.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\IO.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\mscorlib.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\System.Net.Http.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\System.Net.Http.xml
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\normidna.nlp
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\normnfc.nlp
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\normnfd.nlp
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\normnfkc.nlp
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\bin\Debug\normnfkd.nlp
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\obj\Debug\IO.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_58\Ejercicio_58\IO\obj\Debug\IO.pdb
