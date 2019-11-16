@@ -1,0 +1,8 @@
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Torneos\bin\Debug\Torneos.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Torneos\bin\Debug\Torneos.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Torneos\bin\Debug\Torneos.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Torneos\bin\Debug\Ejercicio_47.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Torneos\bin\Debug\Ejercicio_47.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Torneos\obj\Debug\Torneos.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Torneos\obj\Debug\Torneos.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Torneos\obj\Debug\Torneos.pdb

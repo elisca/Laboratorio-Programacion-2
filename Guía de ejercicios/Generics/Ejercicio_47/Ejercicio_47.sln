@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_47", "Ejercicio_47.csproj", "{3505BA98-DD5F-46E7-BC2A-A36E4D74C011}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneos", "..\Torneos\Torneos.csproj", "{A6C529C8-E2E5-4B5B-BCA9-D5B36711B1B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3505BA98-DD5F-46E7-BC2A-A36E4D74C011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3505BA98-DD5F-46E7-BC2A-A36E4D74C011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3505BA98-DD5F-46E7-BC2A-A36E4D74C011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3505BA98-DD5F-46E7-BC2A-A36E4D74C011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C529C8-E2E5-4B5B-BCA9-D5B36711B1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C529C8-E2E5-4B5B-BCA9-D5B36711B1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C529C8-E2E5-4B5B-BCA9-D5B36711B1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C529C8-E2E5-4B5B-BCA9-D5B36711B1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89270D7F-BC19-42EE-882C-DC0F6E5C1AB3}
+	EndGlobalSection
+EndGlobal

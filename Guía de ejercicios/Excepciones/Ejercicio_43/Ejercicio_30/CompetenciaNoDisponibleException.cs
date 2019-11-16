@@ -39,26 +39,17 @@ namespace Ejercicio_30
         public override string ToString()
         {
             StringBuilder datosExcepcion = new StringBuilder();
-            Exception auxCnde = this.InnerException;
+            Exception ex = this.InnerException;
 
             datosExcepcion.AppendLine("Excepción en el método " + this.NombreMetodo + " de la clase " + this.NombreClase + ":");
             datosExcepcion.AppendLine(this.Message);
 
-            while (!ReferenceEquals(auxCnde.InnerException, null))
-            {
-                datosExcepcion.AppendLine("\t" + auxCnde.ToString());
-            }
-            
-            //auxCnde = this.InnerException;
-
-            /*
-            auxCnde = this.InnerException;
             do
             {
-                datosExcepcion.AppendLine("\t" + auxCnde.ToString());
+                datosExcepcion.AppendLine("\t" + auxCnde.Message);
                 auxCnde = auxCnde.InnerException;
-            } while (!ReferenceEquals(auxCnde.InnerException, null));
-            */
+            } while (!object.ReferenceEquals(auxCnde, null));
+
             return datosExcepcion.ToString();
         }
     }

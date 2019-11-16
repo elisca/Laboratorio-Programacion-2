@@ -15,4 +15,4 @@ C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones
 C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\obj\Debug\Ejercicio_30.pdb
 C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\bin\Debug\Ejercicio_30.exe
 C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\bin\Debug\Ejercicio_30.pdb
-C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\obj\Debug\Ejercicio_30.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Excepciones\Ejercicio_43\Ejercicio_30\obj\Debug\Ejercicio_30.csprojAssemblyReference.cache

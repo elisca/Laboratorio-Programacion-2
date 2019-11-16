@@ -1,0 +1,5 @@
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_47\bin\Debug\Ejercicio_47.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_47\bin\Debug\Ejercicio_47.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_47\obj\Debug\Ejercicio_47.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_47\obj\Debug\Ejercicio_47.dll
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_47\obj\Debug\Ejercicio_47.pdb
