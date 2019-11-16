@@ -43,9 +43,9 @@ namespace CentralitaHerencia
             }
         }
 
-        private void AgregarLlamada(Llamada nuevaLlamada)
+        void AgregarLlamada(Llamada nuevaLlamada)
         {
-            this.Llamadas.Add(nuevaLlamada);
+            this.listaDeLlamadas.Add(nuevaLlamada);
         }
 
         private float CalcularGanancia(TipoLlamada tipo)
@@ -94,7 +94,7 @@ namespace CentralitaHerencia
             this.razonSocial = nombreEmpresa;
         }
 
-        private string Mostrar()
+        string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
@@ -107,11 +107,11 @@ namespace CentralitaHerencia
             {
                 if (auxLlamada is Local)
                 {
-                    sb.AppendFormat("{0}", ((Local)auxLlamada).ToString());
+                    sb.AppendFormat("{0}", auxLlamada.ToString());
                 }
                 else if (auxLlamada is Provincial)
                 {
-                    sb.AppendFormat("{0}", ((Provincial)auxLlamada).ToString());
+                    sb.AppendFormat("{0}", auxLlamada.ToString());
                 }
             }
 
@@ -134,16 +134,19 @@ namespace CentralitaHerencia
 
         public static bool operator ==(Centralita c, Llamada llamada)
         {
+            bool llamadaExistente = false;
+
             foreach (Llamada auxLlamada in c.Llamadas)
-            {
-                if (auxLlamada == llamada)
+            { 
+                if(auxLlamada == llamada)
                 {
-                    return true;
+                    llamadaExistente = true;
+                    break;
                 }
             }
-            return false;
+            return llamadaExistente;
         }
-
+        
         public void OrdenarLlamadas()
         {
             this.listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);

@@ -59,33 +59,51 @@ namespace Ejercicio_56
 
         private void guardarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            /*
             if (ultimaRuta != null && ultimaRuta != "")
             {
-                using (sw = new StreamWriter(ultimaRuta))
+                //Archivos txt
+                if (ultimaRuta.EndsWith(".txt"))
                 {
-                    sw.Write(this.rtb1.Text);
-                    archivoModificado = false;
+                    IO.PuntoTxt auxTxt = new IO.PuntoTxt();
+                    if (auxTxt.Guardar(saveFileDialog1.FileName, this.rtb1.Text))
+                    {
+                        archivoModificado = false;
+                        MessageBox.Show("Archivo de texto guardado exitosamente.", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Information);                       
+                    }
+                    else
+                    {
+                        MessageBox.Show("Ocurrio un error al intentar guardar el archivo de texto.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    }
+                }
+                //Archivos dat
+                else if(ultimaRuta.EndsWith(".dat"))
+                {
+                    IO.PuntoDat auxDat = new IO.PuntoDat();
+                    auxDat.Contenido = this.rtb1.Text;
+                    if (auxDat.Guardar(saveFileDialog1.FileName, auxDat))
+                    {
+                        archivoModificado = false;
+                        MessageBox.Show("Archivo de datos guardado exitosamente.", "Confirmacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                    else
+                    {
+                        MessageBox.Show("Ocurrio un error al intentar guardar el archivo de datos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    }
                 }
             }
             else
             {
                 guardarComoToolStripMenuItem_Click(sender, e);
             }
-             * */
         }
 
         private void guardarComoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            /*
             saveFileDialog1.Filter = "Archivos de texto (*.txt)|*.txt|Archivos de datos (*.dat)|*.dat";
             saveFileDialog1.ShowDialog();
             ultimaRuta = saveFileDialog1.FileName;
-            if (ultimaRuta != null && ultimaRuta != "")
-            {
-                guardarToolStripMenuItem_Click(sender, e);
-            }
-            */
+
+            guardarToolStripMenuItem_Click(sender, e);
         }
 
         private void rtb1_TextChanged(object sender, EventArgs e)
