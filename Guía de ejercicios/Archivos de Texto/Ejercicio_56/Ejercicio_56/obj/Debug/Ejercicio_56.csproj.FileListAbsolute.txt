@@ -8,3 +8,6 @@ D:\Ezequiel Lisca\Ejercicio_56\Ejercicio_56\obj\Debug\Ejercicio_56.csproj.Genera
 D:\Ezequiel Lisca\Ejercicio_56\Ejercicio_56\obj\Debug\Ejercicio_56.csproj.CoreCompileInputs.cache
 D:\Ezequiel Lisca\Ejercicio_56\Ejercicio_56\obj\Debug\Ejercicio_56.exe
 D:\Ezequiel Lisca\Ejercicio_56\Ejercicio_56\obj\Debug\Ejercicio_56.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_56\Ejercicio_56\bin\Debug\Ejercicio_56.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_56\Ejercicio_56\obj\Debug\Ejercicio_56.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Archivos de Texto\Ejercicio_56\Ejercicio_56\obj\Debug\Ejercicio_56.pdb

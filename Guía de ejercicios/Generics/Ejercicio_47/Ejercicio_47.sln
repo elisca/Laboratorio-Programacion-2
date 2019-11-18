@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_47", "Ejercicio_47.csproj", "{3505BA98-DD5F-46E7-BC2A-A36E4D74C011}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneos", "..\Torneos\Torneos.csproj", "{A6C529C8-E2E5-4B5B-BCA9-D5B36711B1B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneos", "Torneos\Torneos.csproj", "{A6C529C8-E2E5-4B5B-BCA9-D5B36711B1B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -48,7 +48,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ejercicio_47\Ejercicio_47.csproj">
+    <ProjectReference Include="..\Ejercicio_47.csproj">
       <Project>{3505ba98-dd5f-46e7-bc2a-a36e4d74c011}</Project>
       <Name>Ejercicio_47</Name>
     </ProjectReference>

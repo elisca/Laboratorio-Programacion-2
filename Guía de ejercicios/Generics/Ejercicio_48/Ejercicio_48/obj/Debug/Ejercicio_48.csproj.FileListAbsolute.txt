@@ -1,0 +1,5 @@
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_48\Ejercicio_48\bin\Debug\Ejercicio_48.exe.config
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_48\Ejercicio_48\bin\Debug\Ejercicio_48.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_48\Ejercicio_48\bin\Debug\Ejercicio_48.pdb
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_48\Ejercicio_48\obj\Debug\Ejercicio_48.exe
+C:\Users\Ezequiel\Documents\GitHub\Laboratorio_2\Guía de ejercicios\Generics\Ejercicio_48\Ejercicio_48\obj\Debug\Ejercicio_48.pdb

@@ -15,6 +15,7 @@ namespace Ejercicio_47
         public Torneo()
         {
             this.equipos = new List<T>();
+            numRandom = new Random();
         }
 
         public Torneo(string nombre):this()
@@ -68,7 +69,7 @@ namespace Ejercicio_47
             resultado1 = numRandom.Next(0, 4);
             resultado2 = numRandom.Next(0, 4);
 
-            datosPartido.AppendFormat("{0} {1}-{2} {3}", equipo1.Nombre, resultado1, equipo2.Nombre, resultado2);
+            datosPartido.AppendFormat("{0} {1}-{2} {3}", equipo1.Nombre, resultado1, resultado2, equipo2.Nombre);
 
             return datosPartido.ToString();
         }
